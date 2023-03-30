@@ -2,7 +2,7 @@
 i publish what i accomplish .
 # accomplishement : 
                                              ----- port scanner using python ---- 
-                                    - Files  : scan_port.py + two tcp servers for tests .
+                                    - Files  : port_scan.py + two tcp servers for tests .
                                              --------------------------------------
                                              
                                              
